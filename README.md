@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=100&section=header&text=HELLO,%20-nl-I'M%20JEONG%20YEON!&fontColor=ffffff&fontSize=37&animation=fadeIn&fontAlignY=40&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=100&section=header&text=HELLO,%20-nl-I'M%20JEONG%20YEON!&fontColor=6E6E6E&fontSize=37&animation=fadeIn&fontAlignY=40&desc=%20&descAlignY=62&descAlign=62)
 
 <h3 align="center">🤍 Welcome my github profile 🤍</h3>
 
