@@ -1,17 +1,15 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=HELLO,%20-nl-I'M%20JEONG%20YEON!&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=40&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=100&section=header&text=HELLO,%20-nl-I'M%20JEONG%20YEON!&fontColor=ffffff&fontSize=37&animation=fadeIn&fontAlignY=40&desc=%20&descAlignY=62&descAlign=62)
 
-  
-####  :wave: Welcome my github profile !
+<h3 align="center">🤍 Welcome my github profile 🤍</h3>
 
   
  <br/>
   
 ####  :clipboard: Once I've Used 
   
- <br/>
-  
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -27,13 +25,14 @@
    <br/>
 
  
-#### :pencil2: Study log
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+<h4 align="center">👩‍💻 My Github Stats 👩‍💻</h4>
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxcordeau&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
   <br/>
   <br/>
 
 </div>
+
+허쩡구리
