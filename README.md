@@ -7,7 +7,6 @@
 
   
  <br/>
- <br/>
   
 ####  :clipboard: Once I've Used 
   
@@ -26,7 +25,7 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
    <br/>
-   <br/>
+
  
 #### :pencil2: Study log
  
@@ -36,6 +35,5 @@
   
   <br/>
   <br/>
-  <br/>
-  <br/>
+
 </div>
