@@ -1,11 +1,12 @@
 <div align="center"> 
 
+![KakaoTalk_20230410_165142205](https://user-images.githubusercontent.com/117654698/230855604-9c428b14-9085-4c2c-b511-59c960ad92fc.png)
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=100&section=header&text=HELLO,%20-nl-I'M%20JEONG%20YEON!&fontColor=6E6E6E&fontSize=37&animation=fadeIn&fontAlignY=40&desc=%20&descAlignY=62&descAlign=62)
 
-<h3 align="center">🤍 Welcome my github profile 🤍</h3>
+<!-- <h3 align="center">🤍 Welcome my github profile 🤍</h3> -->
 
-  
- <br/>
+
   
 ####  :clipboard: Once I've Used 
   
@@ -32,6 +33,7 @@
 
   <br/>
   <br/>
+  
 
 </div>
 
