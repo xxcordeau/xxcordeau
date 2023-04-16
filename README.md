@@ -23,15 +23,6 @@
  
    <br/>
 
- 
-<h4 align="center">👩‍💻 My Github Stats 👩‍💻</h4>
-<br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxcordeau&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-
-  <br/>
-  <br/>
-  
 
 </div>
 
