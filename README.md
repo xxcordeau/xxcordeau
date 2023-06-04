@@ -23,7 +23,3 @@
  
    <br/>
 
-
-affd
-adsf
-adfs
