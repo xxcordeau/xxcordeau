@@ -1,4 +1,4 @@
-### Frontend Software Engineer && UX/UI Desginer
+ Frontend Software Engineer && UX/UI Desginer
 - Vue.js
 - React.js
 - TypeScript
